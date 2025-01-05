@@ -60,6 +60,7 @@ const pokemonList = {
   sprites: { front_default: "URL" },
 };
 
+/*
 const previous = {
   url: "https://pokeapi.co/api/v2/pokemon/132/",
   name: "ditto",
@@ -71,6 +72,7 @@ const next = {
   name: "vaporeon",
   id: 134,
 };
+*/
 
 describe("<PokemonPage />", () => {
   it("should render abilities", async () => {
